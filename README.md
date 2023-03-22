@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
-- 📫 How to reach me **juancruzsaldano9@gmail.com**
+- 📫 How to reach me **juansaldano01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
