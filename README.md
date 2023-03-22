@@ -1,7 +1,7 @@
 ## Hello world 👋 👋
 
 <h1 align="center">Hi everyone 👋, I'm Juan Cruz</h1>
-<h3 align="center">I was born and live in Argentina. At the moment, I'm a data scientist student in 'Universidad Siglo 21', and im looking for mi fisrt job in this area.</h3>
+<h3 align="center">I was born and live in Argentina. At the moment, I'm a data scientist student in 'Universidad Siglo 21', and im looking for mi first job into this area.</h3>
 
 <img src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" alt="Imagen de All the data" width="300" align="right" />
      
