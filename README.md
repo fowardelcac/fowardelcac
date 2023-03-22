@@ -3,7 +3,7 @@
 <h1 align="center">Hi everyone 👋, I'm Juan Cruz</h1>
 <h3 align="center">I was born and live in Argentina, at the moment, I'm a data scientist student in 'Universidad Siglo 21', and im looking for mi fisrt job in this area.</h3>
 
-![Imagen de All the data](https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif)
+<img src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" alt="Imagen de All the data" width="300" align="right" />
      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fowardelcac&label=Profile%20views&color=0e75b6&style=flat" alt="fowardelcac" /> </p>
 
