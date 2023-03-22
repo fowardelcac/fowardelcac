@@ -1,9 +1,14 @@
-### Hello world 👋 👋
+## Hello world 👋 👋
 
-<h1 align="center">Hi 👋, I'm Juan Cruz, from Argentina.</h1>
-<h3 align="center">At the moment i'm a Data Science student in Universidad Siglo 21.</h3>
+<h1 align="center">Hi everyone 👋, I'm Juan Cruz</h1>
+<h3 align="center">I was born and live in Argentina, at the moment, I'm a data scientist student in 'Universidad Siglo 21', and im looking for mi fisrt job in this area.</h3>
 
+<img allign='right' alt='Coding' width='400' src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif"
+     
+     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fowardelcac&label=Profile%20views&color=0e75b6&style=flat" alt="fowardelcac" /> </p>
+
+- I’m currently learning **Data science, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fowardelcac](https://github.com/fowardelcac)
 
