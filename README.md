@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi everyone 👋, I'm Juan Cruz</h1>
 <h3 align="center">I was born and live in Argentina. At the moment, I'm a data scientist student in 'Universidad Siglo 21', and im looking for mi first job into this area.</h3>
-
-<img src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" alt="Imagen de All the data" width="300" align="right" />
      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fowardelcac&label=Profile%20views&color=0e75b6&style=flat" alt="fowardelcac" /> </p>
 
@@ -14,6 +12,9 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
 - 📫 How to reach me **juansaldano01@gmail.com**
+
+### Curriculum vitae
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7047616451054059522" height="576" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
