@@ -14,7 +14,7 @@
 - 📫 How to reach me **juansaldano01@gmail.com**
 
 ### Curriculum vitae
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7047616451054059522" height="576" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7047616451054059522" height="576" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
