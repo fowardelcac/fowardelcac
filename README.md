@@ -12,10 +12,8 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
 - 📫 How to reach me **juansaldano01@gmail.com**
-
-### Curriculum vitae
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7047616451054059522" height="576" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe> 
-
+- Cv: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7047616451054059522"
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jcs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan cruz saldaño" height="30" width="40" /></a>
