@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **juansaldano01@gmail.com**
 - Cv: https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7047616451054059522
+- Portafolio: https://github.com/fowardelcac/Portafolio_DS/tree/main
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
