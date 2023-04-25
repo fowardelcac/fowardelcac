@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fowardelcac](https://github.com/fowardelcac)
 
-- 📝 I regularly write articles on [[https://www.linkedin.com/feed/](https://www.linkedin.com/in/jcs2/)](https://www.linkedin.com/in/jcs2/)
+- 📝 I regularly write articles on [[https://www.linkedin.com/feed/](https://www.linkedin.com/in/jcs2/)(https://www.linkedin.com/in/jcs2/)
 
 - 📫 How to reach me **juansaldano01@gmail.com**
 - Cv: https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7047616451054059522
