@@ -5,15 +5,15 @@
      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fowardelcac&label=Profile%20views&color=0e75b6&style=flat" alt="fowardelcac" /> </p>
 
-- I’m currently learning **Data science, Machine Learning**
+- I’m currently learning **Data science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fowardelcac](https://github.com/fowardelcac)
 
-- 📝 I regularly write articles on [[https://www.linkedin.com/feed/](https://www.linkedin.com/in/jcs2/)(https://www.linkedin.com/in/jcs2/)
+- 📝 I regularly write articles on [https://www.linkedin.com/feed/](https://www.linkedin.com/in/jcs2/)
 
 - 📫 How to reach me **juansaldano01@gmail.com**
 - Cv: https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7047616451054059522
-- Portafolio: https://github.com/fowardelcac/Portafolio_DS/tree/main
+- Portfolio: https://github.com/fowardelcac/Portafolio_DS/tree/main
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
