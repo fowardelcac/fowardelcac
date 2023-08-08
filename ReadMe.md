@@ -15,4 +15,4 @@ Im currently learning data science at Universidad Siglo 21, and lookig for my fi
 
 
 ### 🔝 My portfolio:
-- jcs-port-cs-datos.streamlit.app
+![](jcs-port-cs-datos.streamlit.app)
