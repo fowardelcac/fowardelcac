@@ -2,7 +2,7 @@
 Im currently learning data science at Universidad Siglo 21, and lookig for my first real world experience
 
 ## 🔝 My portfolio:
-[![🔝](https://jcs-port-cs-datos.streamlit.app)](https://jcs-port-cs-datos.streamlit.app)
+[![Portfolio](https://jcs-port-cs-datos.streamlit.app)](https://jcs-port-cs-datos.streamlit.app)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jcs2) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@juancruzsaldano9) 
