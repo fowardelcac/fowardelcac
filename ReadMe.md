@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently learning data science at Universidad Siglo 21, and lookig for my first real world experience
+Hi, I'm Juan Cruz from Argentina, a Junior Data Scientist. I specialize in Python programming, which enables me to develop web applications (both frontend and backend), perform web scraping, and work with AI/ML projects.
 
 ## 🔝 My portfolio:
 [![Portfolio](https://jcs-port-cs-datos.streamlit.app)](https://jcs-port-cs-datos.streamlit.app)
