@@ -2,7 +2,7 @@
 Hi, I'm Juan Cruz from Argentina, a Junior Data Scientist. I specialize in Python programming, which enables me to develop web applications (both frontend and backend), perform web scraping, and work with AI/ML projects.
 
 ## 🔝 My portfolio:
-[![Portfolio](https://jcs-port-cs-datos.streamlit.app)](https://jcs-port-cs-datos.streamlit.app)
+[![Portfolio](https://jc-saldano.reflex.run/)](https://jc-saldano.reflex.run/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jcs2) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@juancruzsaldano9) 
